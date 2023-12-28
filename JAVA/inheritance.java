@@ -22,11 +22,3 @@ class b extends a
     }
 
 }
-
-public class inheritance {
-    public static void main(String[] args)
-    {
-        int a = 5;
-        a obj = new b(a);
-    }
-}
